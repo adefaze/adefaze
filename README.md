@@ -1,3 +1,5 @@
+<img align="center" src="https://marketplace.canva.com/EAEvZ3NDFto/1/0/1600w/canva-blush-wave-linkedin-banner-nuNmg4S1vq8.jpg" alt="adefaze" height="200" width="1200" />
+
 <h1 align="center">Hi 👋, I'm Abiodun</h1>
 <h3 align="center">A product designer that codes.</h3>
 
