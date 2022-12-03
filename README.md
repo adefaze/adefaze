@@ -5,8 +5,6 @@
 
 
 
-- 🔭 I’m currently working on [Task Manager Project](task-manager)
-
 - 🌱 I’m currently learning **Node/Express JS**
 
 - 💬 Ask me about **product design**
