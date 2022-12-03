@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Task Manager Project](www.github.com/adefaze/task-manager)
+- 🔭 I’m currently working on [Task Manager Project](task-manager)
 
 - 🌱 I’m currently learning **Node/Express JS**
 
