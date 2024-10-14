@@ -5,13 +5,12 @@
 
 
 
-- 🌱 I’m currently learning **Node/Express JS**
+- 🌱 Learning **Flutter**
 
-- 💬 Ask me about **product design**
+- 💬 Ask me about **Product design**
 
-- 📫 How to reach me **abiodunadefila3@gmail.com**
+- 📫 Contact **abiodunadefila3@gmail.com**
 
-- ⚡ Fun fact **I am an award-winning bathroom singer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
